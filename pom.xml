@@ -41,16 +41,16 @@
 			<scope>test</scope>
 		</dependency>
 	
- 	<dépendance>
+ 	    <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-         </dépendance>
+        </dependency>
 
-    <dépendance>
-<groupId>org.springframework.boot</groupId>
-<artifactId>spring-boot-starter-web</artifactId>
-</dépendance>
+        <dependency>
+           <groupId>org.springframework.boot</groupId>
+           <artifactId>spring-boot-starter-web</artifactId>
+           </dependency>
 		</dependency>
 	</dependencies>
 
